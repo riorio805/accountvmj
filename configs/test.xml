@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	<feature automatic="selected" name="AccountVMJ"/>
+	<feature automatic="selected" name="Account"/>
+	<feature automatic="selected" name="TransactionWithFee"/>
+	<feature manual="selected" name="Deposit"/>
+	<feature manual="selected" name="Withdrawal"/>
+	<feature manual="selected" name="Check"/>
+</configuration>

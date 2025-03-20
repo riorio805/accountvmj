@@ -1,0 +1,17 @@
+{
+	"Account": [
+		"accountvmj.account.core"
+	],
+	"TransactionWithFee": [
+		"accountvmj.account.accountfees"
+	],
+	"Deposit": [
+		"accountvmj.account.depositwithfees"
+	],
+	"Withdrawal": [
+		"accountvmj.account.withdrawwithfees"
+	],
+	"Check": [
+		"accountvmj.account.checkwithfees"
+	]
+}
